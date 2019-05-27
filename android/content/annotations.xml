@@ -1,0 +1,5 @@
+<root>
+    <item name='android.content.ContextWrapper android.content.Context getBaseContext()'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
